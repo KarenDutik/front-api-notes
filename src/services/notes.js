@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseUrl = "https://intense-falls-99888-90ecc0edbe50.herokuapp.com/api/notes";
+const baseUrl = "https://lit-peak-98609-833f7d980e60.herokuapp.com/api/notes";
 
 let token = null;
 
